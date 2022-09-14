@@ -1,0 +1,4 @@
+之前配置过了所以不会详细记录，具体操作网上有很多教程
+比较推荐使用anaconda，不同的项目可以新建不同的环境，避免包冲突
+在本地跑代码的话可以用anaconda/miniconda+pycharm，或者使用jupyter
+当然也可以用各种云平台，比如ai studio和google colab，白嫖算力，也不用自己装python环境
